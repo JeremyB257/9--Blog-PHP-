@@ -25,3 +25,16 @@ a
     text-decoration: none;
     color: blue;
 }
+
+.modifyBtn {
+    color: blue;
+    cursor: pointer;
+}
+
+.modifyComment {
+    display: block;
+}
+
+.hidden {
+display: none;
+}
